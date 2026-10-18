@@ -77,7 +77,7 @@ Revenue Display = "K" & FORMAT([Total Revenue], "#,##0")
 
 ## Dashboard Screenshot
 
-![Power BI Sales Performance Dashboard](Power_BI_Dashboard.png.png)
+![Power BI Sales Performance Dashboard](Power_BI_Dashboard.png)
 
 ## Project Files
 
